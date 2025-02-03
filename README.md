@@ -4,7 +4,7 @@
 
 This project focuses on classifying objects from the **MPEG-7 dataset** using **K-Nearest Neighbors (KNN)**. 
 
-By extracting shape descriptors such as the Histogram of Curvature Scale (HoCS) and leveraging texture analysis techniques like Gray-Level Co-occurrence Matrix (GLCM) and Local Binary Patterns (LBP), the model achieves a classification accuracy of up to **97%**. 
+By extracting shape descriptors such as the Histogram of Curvature Scale (HoCS) and leveraging texture analysis techniques like Gray-Level Co-occurrence Matrix (GLCM) and Local Binary Patterns (LBP), the model achieves a classification accuracy of up to **70%**. 
 
 The workflow includes image preprocessing, feature extraction, KNN model training, and performance evaluation through confusion matrices and classification rates.
 
