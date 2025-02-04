@@ -1,4 +1,4 @@
-# **Object Classification with K-Nearest Neighbors (KNN)**
+# **Object Recognition System with K-Nearest Neighbors (KNN)**
 
 ## **Overview**
 
