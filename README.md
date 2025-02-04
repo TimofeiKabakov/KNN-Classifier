@@ -1,4 +1,4 @@
-# **Object Recognition System with K-Nearest Neighbors**
+# **Object Classification System with K-Nearest Neighbors**
 
 ## **Overview**
 
